@@ -25,7 +25,7 @@
 ![Upload Time](hourly_upload_distribution.png)
 
 ###  Most Common Tags (Word Cloud)
-![Word Cloud](wordcloud_tags.png)
+![Word Cloud](corr_likeandviews.png)
 
 
 ---
