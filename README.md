@@ -10,7 +10,7 @@
 ##  Sample Visualizations
 
 ###  Top 10 Most Viewed Videos
-![Top 10 Viewed](top10_most_viewed.png)
+![Top 10 Viewed](most_viewed.png)
 
 ###  Top 10 Most liked Videos
 ![Top 10 liked](most_liked.png)
