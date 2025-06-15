@@ -24,8 +24,12 @@
 ###  Upload Time Distribution
 ![Upload Time](hourly_upload_distribution.png)
 
+### Correlation of likes and views
+![Correlation of likes and views](corr_likeandviews.png)
+
+
 ###  Most Common Tags (Word Cloud)
-![Word Cloud](corr_likeandviews.png)
+![Word Cloud](commontags.png)
 
 
 ---
