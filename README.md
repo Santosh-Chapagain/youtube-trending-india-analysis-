@@ -10,22 +10,23 @@
 ##  Sample Visualizations
 
 ###  Top 10 Most Viewed Videos
-![Top 10 Viewed](images/top10_most_viewed.png)
+![Top 10 Viewed](top10_most_viewed.png)
 
 ###  Top 10 Most liked Videos
-![Top 10 liked](images/most_liked.png)
+![Top 10 liked](most_liked.png)
 
 ###  Views per category
-![Views per category](images/viewspercategory.png)
+![Views per category](viewspercategory.png)
 
 ###  Number of trending videos in top10_channel
-![T Number of trending videos in top10_channel](images/Top10channel_trending_videosnumber.png)
+![Trending videos in top10_channel](Top10channel_trending_videosnumber.png)
 
 ###  Upload Time Distribution
-![Upload Time](images/hourly_upload_distribution.png)
+![Upload Time](hourly_upload_distribution.png)
 
 ###  Most Common Tags (Word Cloud)
-![Word Cloud](images/wordcloud_tags.png)
+![Word Cloud](wordcloud_tags.png)
+
 
 ---
 
